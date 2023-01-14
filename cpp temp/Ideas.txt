@@ -1,0 +1,26 @@
+2.
+
+	Read up on https://docs.microsoft.com/en-us/windows/win32/uxguide/guidelines and find out how to make the GUI look better. It looks like an
+old Windows application and that needs to be changed.
+
+5.
+
+	Add better GUI by just using some program like Qt or Scintilla or something. Something that allows the UI to look splendid.
+
+6.
+
+	Add cred summation
+	for loop that invokes rank - > cred function to get creds per rank
+
+	OR
+
+"var a = [];
+for(var i = 0; i < 35; i++){
+    a.push(5*i);
+}
+30
+
+var b = 0;
+for(var j = 0; j < 35; j++){
+    b+=(a[j] + 200);
+}"
