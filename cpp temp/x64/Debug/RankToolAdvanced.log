@@ -1,0 +1,13 @@
+﻿  RankToolAdvanced.cpp
+C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\RankToolAdvanced.cpp(931,62): warning C4101: '_hFAM': unreferenced local variable
+C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\RankToolAdvanced.cpp(1624,13): warning C4101: 'posArray': unreferenced local variable
+C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\RankToolAdvanced.cpp(1840): warning C4715: '_rankUnlocks::rankUnlocksProcedure': not all control paths return a value
+C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\RankToolAdvanced.cpp(1953): warning C4715: '_extra::extraProcedure': not all control paths return a value
+C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\RankToolAdvanced.cpp(2151): warning C4715: '_farm::farmProcedure': not all control paths return a value
+C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\RankToolAdvanced.cpp(2333): warning C4715: '_weaponBuy::weaponProcedure': not all control paths return a value
+  LINK : 0 new modules and 1 (out of 49) modules have changed since prior linking
+  Starting pass 2
+       RankToolAdvanced.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  RankToolAdvanced.vcxproj -> C:\Users\peter\OneDrive\Desktop\Programming\cpp temp\x64\Debug\RankToolAdvanced.exe
